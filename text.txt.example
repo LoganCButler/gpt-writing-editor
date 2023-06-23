@@ -1,0 +1,7 @@
+# Markdown headers pass through and are not sent to GPT
+
+Paragraph text is included in the gpt conversation. 
+
+New lines are sent in a separate request. 
+
+short line skipped

@@ -1,0 +1,5 @@
+text.txt
+output/*
+.DS_Store
+variables.env
+.vscode/settings.json

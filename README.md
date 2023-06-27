@@ -1,4 +1,4 @@
-# transcript-to-book
+# GPT Writing Editor
 A repository for sharing how I eddited a writing content using Chat GPT. 
 
 # Prerequisites  

@@ -1,5 +1,5 @@
 # transcript-to-book
-A repository for sharing how I drafted a book using a class lecture transcript. 
+A repository for sharing how I eddited a writing content using Chat GPT. 
 
 # Prerequisites  
 *  Python
